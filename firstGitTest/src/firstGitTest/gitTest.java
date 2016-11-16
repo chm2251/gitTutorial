@@ -1,5 +1,5 @@
 package firstGitTest;
 
-public class Hello {
+public class gitTest {
 
 }
